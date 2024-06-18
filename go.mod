@@ -489,4 +489,4 @@ require (
 	tags.cncf.io/container-device-interface/specs-go v0.7.0 // indirect
 )
 
-replace github.com/k3s-io/kine => github.com/sdemura/kine v0.11.10-sql3
+replace github.com/k3s-io/kine => github.com/sdemura/kine v0.11.10-sql4
